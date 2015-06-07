@@ -487,3 +487,8 @@ pre code {
 	font-size: 12pt;
 	color: #999;
 }
+
+.comments {
+	margin-left: 20px;
+	margin-right: 20px;
+}
