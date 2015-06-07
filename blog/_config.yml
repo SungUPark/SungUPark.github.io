@@ -1,0 +1,52 @@
+# Dependencies
+markdown:	redcarpet
+pygments:	true
+
+# Permalinks
+permalink:	/post/:title
+
+# Setup
+title:		'501 : 블로그 제목을 찾을 수 없습니다'
+tagline:	'blog'
+description:	'덕후주의'
+url:		http://swpark.xyz/blog
+
+author:
+  name:		'박성욱'
+  url:		http://swpark.xyz
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/ParkSungWook.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	#
+    desc:	Follow me on Twitter
+
+  - icon:	github
+    url:	https://github.com/SungUPark
+    desc:	Fork me on GitHub
+
+  - icon:	googleplus-alt
+    url:	#
+    desc:	Add me on Google+
+
+  - icon:	feed
+    url:	http://swpark.xyz/blog/atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title: 블로그
+    url:	/
+    
+  - title:	프로필
+    url:	/about
+    
+copyright:
+  author:	S.W.Park
+  url:		http://swpark.xyz
+  type_title:	All rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
