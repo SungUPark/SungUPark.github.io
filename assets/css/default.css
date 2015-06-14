@@ -1,4 +1,5 @@
 @import url(//cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/nanumbarungothic.css);
+
 html, body, div, span, applet, object, iframe, caption, p {
 	margin: 0 0 0 0;
 	border: 0 0 0 0;
@@ -23,7 +24,7 @@ header, footer {
 	background-position: center;
 	background-size: cover;
 	background-attachment: scroll;
-	font-family: "NanumBarunGothic", sans-serif;
+	font-family: "NanumBarunGothic-Regular", sans-serif;
 }
 
 header a, footer a {
@@ -160,7 +161,7 @@ img.site-icon-page {
 }
 
 #article {
-	font-family: "NanumBarunGothic";
+	font-family: "NanumBarunGothic-Regular";
 	font-weight: 400;
 	letter-spacing: 0px;
 	font-size:20px;
@@ -395,7 +396,7 @@ pre code {
 	position: relative;
 	margin-top: 30px;
 	text-align: center;
-	font-family: "NanumBarunGothic";
+	font-family: "NanumBarunGothic-Bold";
 	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -448,7 +449,7 @@ pre code {
 }
 
 #post-list {
-	font-family: "NanumBarunGothic";
+	font-family: "NanumBarunGothic-Regular";
 	top: 50px;
 	padding-bottom: 80px;
 	font-weight: 400;
@@ -481,7 +482,7 @@ pre code {
 .post-description {
 	color: #777;
 	font-size: 15pt;
-	font-family: "NanumBarunGothic"
+	font-family: "NanumBarunGothic-Light"
 }
 
 .post-date {
