@@ -24,7 +24,7 @@ header, footer {
 	background-position: center;
 	background-size: cover;
 	background-attachment: scroll;
-	font-family: "NanumBarunGothic-Regular", sans-serif;
+	font-family: "Nanum Barun Gothic", sans-serif;
 }
 
 header a, footer a {
@@ -161,7 +161,7 @@ img.site-icon-page {
 }
 
 #article {
-	font-family: "NanumBarunGothic-Regular";
+	font-family: "Nanum Barun Gothic";
 	font-weight: 400;
 	letter-spacing: 0px;
 	font-size:20px;
@@ -396,7 +396,7 @@ pre code {
 	position: relative;
 	margin-top: 30px;
 	text-align: center;
-	font-family: "NanumBarunGothic-Bold";
+	font-family: "Nanum Barun Gothic";
 	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -449,7 +449,7 @@ pre code {
 }
 
 #post-list {
-	font-family: "NanumBarunGothic-Regular";
+	font-family: "Nanum Barun Gothic";
 	top: 50px;
 	padding-bottom: 80px;
 	font-weight: 400;
@@ -482,7 +482,7 @@ pre code {
 .post-description {
 	color: #777;
 	font-size: 15pt;
-	font-family: "NanumBarunGothic-Light"
+	font-family: "Nanum Barun Gothic"
 }
 
 .post-date {
